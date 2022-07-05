@@ -9,6 +9,3 @@ A chatbot is a service, powered by rules and sometimes artificial intelligence, 
 
 # Project Link/URL:
 https://vaibhavstorageaccount.z13.web.core.windows.net/
-
-# Project Demo:
-https://youtu.be/EXmS03EQQGE
